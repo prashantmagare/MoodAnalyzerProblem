@@ -19,7 +19,7 @@ namespace Mood_Analyzer_problem
                 }
                 else if (message.ToLower().Contains("sad"))
                 {
-                    return "sad";
+                    return "sad"; 
                 }
                 else
                 {
